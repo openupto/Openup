@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "deploy": "echo 'Edge Functions deployment disabled - App uses direct Supabase client'"
+  }
+}

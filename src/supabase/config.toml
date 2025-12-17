@@ -1,0 +1,11 @@
+[project]
+name = "openup"
+
+[functions]
+enabled = false
+
+[api]
+enabled = true
+
+[db]
+enabled = true
